@@ -1,0 +1,23 @@
+{
+  "name": "calculator_rest_api",
+  "version": "1.0.0",
+  "description": "calculatorRestAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phichainueng/Calculator-REST-API.git"
+  },
+  "author": "Phichai Paohom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phichainueng/Calculator-REST-API/issues"
+  },
+  "homepage": "https://github.com/phichainueng/Calculator-REST-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4"
+  }
+}
